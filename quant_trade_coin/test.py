@@ -9,7 +9,7 @@ pd.set_option('display.max_rows', 20)  # 显示行数
 # h5_store = pd.HDFStore('quant_trade_coin\data\EOS-USDT.h5', mode='r')
 h5_store = pd.HDFStore('F:\workspacepyn\quant_trade_coin\data\EOS-USDT.h5', mode='r')
 
-
+123
 
 # h5_store中的key
 print(h5_store.keys())
