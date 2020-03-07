@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c57b968-2840-46ed-9214-410aca801d51" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="【案例1】okex获取ticker数据.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program/class7/【案例1】okex获取ticker数据.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="【案例3】寻找最优参数.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program/class8/【案例3】寻找最优参数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="37" column="81" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="大作业1答案_bfx_margin_自动交易系统.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/program/class9/大作业1答案_bfx_margin_自动交易系统.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6678">
+              <caret line="47" column="6" lean-forward="true" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Signals.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program/class8/Signals.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="简单自动交易系统.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program/class9/简单自动交易系统.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="90" column="30" selection-start-line="90" selection-end-line="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Trade.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program/class9/Trade.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1216">
+              <caret line="68" column="28" selection-start-line="68" selection-end-line="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program/class9/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="【案例3】寻找最优参数_temp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program/class8/【案例3】寻找最优参数_temp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>stock</find>
+      <find>LTCUSD</find>
+      <find>equity</find>
+      <find>strat_time</find>
+      <find>stock_data</find>
+      <find>d'f</find>
+      <find># =====</find>
+      <find>USDT</find>
+      <find>{</find>
+      <find>binance</find>
+      <find>MarginInfos</find>
+      <find>huobi</find>
+      <find>huobipro</find>
+      <find>size</find>
+      <find>2018-03-21 23:45:00</find>
+      <find>usd</find>
+      <find>nan</find>
+      <find>选择币</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>print(</replace>
+      <replace>start_time</replace>
+      <replace>df</replace>
+      <replace>#</replace>
+      <replace>bitfinex</replace>
+      <replace>选币</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/program/class6/如何批量导入数据.py" />
+        <option value="$PROJECT_DIR$/program/class6/resample转换数据周期.py" />
+        <option value="$PROJECT_DIR$/program/class6/3_转换数据周期_resample操作.py" />
+        <option value="$PROJECT_DIR$/program/class6/2_使用hdf读取文件.py" />
+        <option value="$PROJECT_DIR$/program/class6/1_如何批量导入数据.py" />
+        <option value="$PROJECT_DIR$/program/class8/大纲.py" />
+        <option value="$PROJECT_DIR$/program/class8/择时策略.py" />
+        <option value="$PROJECT_DIR$/program/class8/【案例】择时策略.py" />
+        <option value="$PROJECT_DIR$/program/class8/【案例】如何计算资金曲线.py" />
+        <option value="$PROJECT_DIR$/program/class7/【案例】其他交易所api地址案例.py" />
+        <option value="$PROJECT_DIR$/program/class7/ccxt.py" />
+        <option value="$PROJECT_DIR$/program/class8/Method.py" />
+        <option value="$PROJECT_DIR$/program/class8/Evaluate.py" />
+        <option value="$PROJECT_DIR$/program/class6/4_分组处理操作_groupby.py" />
+        <option value="$PROJECT_DIR$/program/class7/【案例3】binance交易.py" />
+        <option value="$PROJECT_DIR$/program/class7/【案例4】bitfinex交易.py" />
+        <option value="$PROJECT_DIR$/program/class7/【案例3】ccxt介绍.py" />
+        <option value="$PROJECT_DIR$/program/class7/【案例4】使用ccxt在binance进行交易.py" />
+        <option value="$PROJECT_DIR$/program/class8/__init__.py" />
+        <option value="$PROJECT_DIR$/program/class7/【案例4】使用ccxt在bitfinex进行交易.py" />
+        <option value="$PROJECT_DIR$/program/class9/temp.py" />
+        <option value="$PROJECT_DIR$/program/class7/temp.py" />
+        <option value="$PROJECT_DIR$/program/class9/Functions.py" />
+        <option value="$PROJECT_DIR$/program/__init__.py" />
+        <option value="$PROJECT_DIR$/program/class9/Method.py" />
+        <option value="$PROJECT_DIR$/program/class9/auto_trading.py" />
+        <option value="$PROJECT_DIR$/program/class9/Trade.py" />
+        <option value="$PROJECT_DIR$/program/class9/简单自动交易系统.py" />
+        <option value="$PROJECT_DIR$/program/class8/【案例3】寻找最优参数.py" />
+        <option value="$PROJECT_DIR$/program/class8/【案例1】择时策略.py" />
+        <option value="$PROJECT_DIR$/program/class8/【案例2】如何计算资金曲线.py" />
+        <option value="$PROJECT_DIR$/program/class8/test.py" />
+        <option value="$PROJECT_DIR$/program/class7/【案例5】使用ccxt在常用交易所交易.py" />
+        <option value="$PROJECT_DIR$/program/class10/不能发给学生.py" />
+        <option value="$PROJECT_DIR$/program/class10/picking_method.py" />
+        <option value="$PROJECT_DIR$/program/class10/pick_strategy_main.py" />
+        <option value="$PROJECT_DIR$/program/class10/课程临时脚本.py" />
+        <option value="$PROJECT_DIR$/program/config.py" />
+        <option value="$PROJECT_DIR$/program/class10/课程教案（不分享）.py" />
+        <option value="$PROJECT_DIR$/program/class8/【案例3】寻找最优参数_temp.py" />
+        <option value="$PROJECT_DIR$/program/class7/【案例3】使用ccxt在binance进行交易.py" />
+        <option value="$PROJECT_DIR$/program/class10/Functions.py" />
+        <option value="$PROJECT_DIR$/program/class10/Picking_strategy.py" />
+        <option value="$PROJECT_DIR$/program/class4/4_函数.py" />
+        <option value="$PROJECT_DIR$/program/class4/5_异常处理.py" />
+        <option value="$PROJECT_DIR$/program/class10/Picking_backtest.py" />
+        <option value="$PROJECT_DIR$/program/class4/2_内置数据结构.py" />
+        <option value="$PROJECT_DIR$/program/class4/3_条件、循环语句.py" />
+        <option value="$PROJECT_DIR$/program/class7/【案例1】okex获取ticker数据.py" />
+        <option value="$PROJECT_DIR$/program/class8/Signals.py" />
+        <option value="$PROJECT_DIR$/program/class9/大作业1答案_bfx_margin_自动交易系统.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="coin_quant_class_1128" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coin_quant_class_1128" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coin_quant_class_1128" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coin_quant_class_1128" type="462c0819:PsiDirectoryNode" />
+              <item name="program" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coin_quant_class_1128" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coin_quant_class_1128" type="462c0819:PsiDirectoryNode" />
+              <item name="program" type="462c0819:PsiDirectoryNode" />
+              <item name="class8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coin_quant_class_1128" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coin_quant_class_1128" type="462c0819:PsiDirectoryNode" />
+              <item name="program" type="462c0819:PsiDirectoryNode" />
+              <item name="class9" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="ccxt&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/class8" />
+      <recent name="$PROJECT_DIR$/program/class8" />
+      <recent name="$PROJECT_DIR$/program" />
+      <recent name="$PROJECT_DIR$/program/class9" />
+      <recent name="$PROJECT_DIR$/data/class6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/program/others" />
+      <recent name="$PROJECT_DIR$/program/class10" />
+      <recent name="$PROJECT_DIR$/data/class10" />
+      <recent name="$PROJECT_DIR$/data/not_share" />
+      <recent name="$PROJECT_DIR$/program/class8" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.大作业1答案_bfx_margin_自动交易系统">
+    <configuration name="大作业1答案_bfx_margin_自动交易系统" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cpin_quant_class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/program/class9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program/class9/大作业1答案_bfx_margin_自动交易系统.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="【案例3】寻找最优参数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cpin_quant_class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/program/class8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program/class8/【案例3】寻找最优参数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="3_条件、循环语句" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cpin_quant_class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/program/class4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program/class4/3_条件、循环语句.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="4_函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cpin_quant_class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/program/class4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program/class4/4_函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="5_异常处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cpin_quant_class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/program/class4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program/class4/5_异常处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.4_函数" />
+      <item itemvalue="Python.5_异常处理" />
+      <item itemvalue="Python.3_条件、循环语句" />
+      <item itemvalue="Python.【案例3】寻找最优参数" />
+      <item itemvalue="Python.大作业1答案_bfx_margin_自动交易系统" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.大作业1答案_bfx_margin_自动交易系统" />
+        <item itemvalue="Python.【案例3】寻找最优参数" />
+        <item itemvalue="Python.3_条件、循环语句" />
+        <item itemvalue="Python.5_异常处理" />
+        <item itemvalue="Python.4_函数" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c57b968-2840-46ed-9214-410aca801d51" name="Default" comment="" />
+      <created>1515656763998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515656763998</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14257812" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32919255" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.5018431" side_tool="true" weight="0.49340102" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49815693" weight="0.48" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.28527918" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32994923" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda/envs/py3/lib/python3.5/site-packages/ccxt/bitflyer.py" />
+    <entry file="file://$PROJECT_DIR$/program/class7/all_kline.csv" />
+    <entry file="file://$PROJECT_DIR$/program/class8/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class7/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class10/Functions.py" />
+    <entry file="file://$PROJECT_DIR$/program/class10/temp.py" />
+    <entry file="file://$PROJECT_DIR$/监控价差_量化课程.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/py3/lib/python3.5/site-packages/ccxt/bitfinex.py" />
+    <entry file="file://$PROJECT_DIR$/program/class8/Evaluate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class8/Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class8/test.py" />
+    <entry file="file://$PROJECT_DIR$/program/class6/1_如何批量导入数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class5/pandas基础操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="135" lean-forward="true" selection-end-line="277" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class10/Picking.py" />
+    <entry file="file://$USER_HOME$/anaconda/envs/py3/lib/python3.5/site-packages/pandas/core/indexes/base.py" />
+    <entry file="file://$USER_HOME$/anaconda/envs/py3/lib/python3.5/site-packages/pandas/core/generic.py" />
+    <entry file="file://$PROJECT_DIR$/program/class10/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/program/class6/3_转换数据周期_resample操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="18" lean-forward="true" selection-start-line="29" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/others/class10不能发给学生.py" />
+    <entry file="file://$PROJECT_DIR$/program/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="9" selection-start-line="10" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/py3/lib/python3.5/site-packages/pandas/core/tools/timedeltas.py" />
+    <entry file="file://$PROJECT_DIR$/program/class8/【案例1】择时策略.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="56" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class7/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class7/【案例5】使用ccxt在常用交易所交易.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class7/【案例4】使用ccxt在bitfinex进行交易.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="34" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class8/【案例2】如何计算资金曲线.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class4/4_函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/py3/lib/python3.5/random.py" />
+    <entry file="file://$PROJECT_DIR$/program/class4/5_异常处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="908">
+          <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class10/课程教案（不分享）.py" />
+    <entry file="file://$PROJECT_DIR$/program/class10/Functions.py" />
+    <entry file="file://$PROJECT_DIR$/program/class10/Picking_backtest.py" />
+    <entry file="file://$PROJECT_DIR$/program/class10/Picking_strategy.py" />
+    <entry file="file://$PROJECT_DIR$/program/class4/1_基本类型和计算.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class4/2_内置数据结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class4/3_条件、循环语句.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2239">
+          <caret line="105" selection-start-line="105" selection-start-column="2" selection-end-line="113" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class7/【案例2】其他交易所api地址案例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class7/Get_data_from_exchange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="69" column="63" selection-start-line="69" selection-start-column="63" selection-end-line="69" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/py3/lib/python3.5/site-packages/ccxt/__init__.py" />
+    <entry file="file://$USER_HOME$/anaconda/envs/py3/lib/python3.5/site-packages/ccxt/binance.py" />
+    <entry file="file://$PROJECT_DIR$/program/class7/【案例3】使用ccxt在binance进行交易.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class7/【案例1】okex获取ticker数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class8/Signals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class9/简单自动交易系统.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="90" column="30" selection-start-line="90" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class9/Trade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="68" column="28" selection-start-line="68" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class9/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class8/【案例3】寻找最优参数_temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class8/【案例3】寻找最优参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="37" column="81" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program/class9/大作业1答案_bfx_margin_自动交易系统.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6678">
+          <caret line="47" column="6" lean-forward="true" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
